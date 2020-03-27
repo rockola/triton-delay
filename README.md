@@ -14,8 +14,8 @@ These files v2-3_2 2020-03-27 by rockola
 
 ## Images
 
-![Front](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_1-front.png)
-![Back](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_1-back.png)
-![Front copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_1-copper-front.png)
-![Back copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_1-copper-back.png)
-![Drills](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_1-drills.png)
+![Front](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_2-front.png)
+![Back](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_2-back.png)
+![Front copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_2-copper-front.png)
+![Back copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_2-copper-back.png)
+![Drills](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-v2-3_2-drills.png)
