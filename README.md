@@ -12,3 +12,8 @@ These files v2-3_1 2020-03-27 by rockola
 
 ![Triton Delay - Adding the "Glide" from EchoCzar to PT2399](https://www.freestompboxes.org/viewtopic.php?f=13&t=30501) on ![freestompboxes.org](https://www.freestompboxes.org/)
 
+![Front](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-front.png)
+![Back](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-back.png)
+![Front copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-copper-front.png)
+![Back copper](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-copper-back.png)
+![Drills](https://raw.githubusercontent.com/rockola/triton-delay/master/images/triton-delay-drills.png)
