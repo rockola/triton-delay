@@ -2,7 +2,7 @@
 
 Triton Delay v2-3 March 2020 by culturejam/@function_fx
 
-These files v2-3_1 2020-03-27 by rockola
+These files v2-3_2 2020-03-27 by rockola
 
 ## License
 

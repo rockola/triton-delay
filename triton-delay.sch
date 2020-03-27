@@ -57,6 +57,7 @@ Connection ~ 3500 5075
 Connection ~ 2175 5175
 Connection ~ 2175 4725
 Connection ~ 2750 3975
+Connection ~ 2775 5075
 Wire Wire Line
 	1925 4475 2175 4475
 Wire Wire Line
@@ -92,7 +93,7 @@ Wire Wire Line
 Wire Wire Line
 	2650 3975 2750 3975
 Wire Wire Line
-	2725 5075 2800 5075
+	2725 5075 2775 5075
 Wire Wire Line
 	2750 2475 2750 2575
 Wire Wire Line
@@ -102,6 +103,10 @@ Wire Wire Line
 Wire Wire Line
 	2750 3975 2850 3975
 Wire Wire Line
+	2775 5075 2800 5075
+Wire Wire Line
+	2775 5225 2775 5075
+Wire Wire Line
 	2850 3425 2850 3575
 Wire Wire Line
 	2850 3975 2850 3875
@@ -109,6 +114,8 @@ Wire Wire Line
 	2950 4850 3500 4850
 Wire Wire Line
 	2950 4925 2950 4850
+Wire Wire Line
+	2950 5225 2775 5225
 Wire Wire Line
 	3300 6550 3550 6550
 Wire Wire Line
