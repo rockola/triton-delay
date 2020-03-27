@@ -1,3 +1,3 @@
 ## License
 
-"Triton Delay" by culturejam is licensed under ![https://creativecommons.org/licenses/by-sa/4.0/](CC BY-SA 4.0).
+"Triton Delay" by culturejam is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
