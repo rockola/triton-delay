@@ -441,7 +441,7 @@ Wire Wire Line
 Wire Wire Line
 	9075 5075 9075 5425
 Text Notes 8225 7500 2    50   ~ 0
-triton-delay v2-3_1
+triton-delay v2-3_2
 Text Notes 8250 6750 2    100  ~ 0
 TRITON DELAY
 Text Notes 8650 7650 2    50   ~ 0
